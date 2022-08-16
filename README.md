@@ -1,6 +1,15 @@
-# An Analysis of Kickstarter Campaigns
-Taking data from failed, successful, and cancelled kickstarters to plan for new projects!
+# Kickstarting with Excel
 
-Generally, smaller scale projects are more likely to succeed and gather crowdfunding. In addition, the theater category of kickstarters tend to be more successful and raise more money so that's good news! Just make sure you start around the June/July months of the year as those tend to be the months that people receive the most support.
+## Overview of Project
 
-Good luck!
+### Purpose
+The purpose of this project is to examine past kickstarter data upon various metrics in order to best determine the facets of a successful kickstarter.
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+![Theater outcomes based on Launch Data](https://github.com/pmercado625/kickstarter-analysis/Theater_outcomes_vs_Launch.png)
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
